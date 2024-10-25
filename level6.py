@@ -1,4 +1,6 @@
-# Definisi Class
+# Membuat Class dan Objek
+
+
 class Mahasiswa:
     def __init__(self, nama, umur, jurusan):
         self.nama = nama
